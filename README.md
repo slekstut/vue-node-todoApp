@@ -8,4 +8,5 @@ npm install
 #Set .env PORT and CONNECT_STRING for mondodb connection string
 
 Node js -> command line -> npm start
+
 Vue js -> command line -> npm run serve
